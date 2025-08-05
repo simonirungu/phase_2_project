@@ -1,4 +1,4 @@
-# ANALYSIS THE MOVIE INDUSTRY METRICS
+# ANALYSIS OF THE MOVIE INDUSTRY METRICS
 
 ## 1. INTRODUCTION
 This analysis explores various aspects of the movie industry to help movie producers, investors, and other stakeholders make informed decisions about future projects. The film industry is a highly competitive and financially risky environment, with substantial investments required for production. By analyzing historical trends in movie production budgets, box office earnings, and audience ratings, this study offers a data-driven approach to understanding which factors influence the financial success of films.
@@ -13,7 +13,7 @@ The analysis combines data from three key sources:
    
 For a Tableau presentation refer to this [link](https://public.tableau.com/app/profile/simon.irungu/viz/Phase2Project_17543675058530/Dashboard1?publish=yes).
 
-For the nontechnical presentation kindly refer to this [link](https://github.com/simonirungu/phase_2_project/blob/main/Project_2_Presentation.pdf).
+For the nontechnical presentation kindly refer to this [link](https://github.com/simonirungu/phase_2_project/blob/main/Phase%202%20Project%20Presentation.pdf).
 ## 2. BUSINESS UNDERSTANDING 
 In today’s film industry, success is determined not just by creative content but by financial outcomes. Movie producers and studios face increasing pressure to produce films that will generate strong returns on investment while minimizing the risks of financial losses. Making informed decisions about which genres to focus on, the scale of production budgets, and distribution strategies is crucial for the long-term sustainability of movie studios.
 
