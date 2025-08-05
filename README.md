@@ -10,8 +10,10 @@ The analysis combines data from three key sources:
 2. The Numbers: Financial information such as production budgets and returns on investment (ROI).
 
 3. IMDB: Movie ratings and genre information.
-For a Tableau presentation refer to this [link](https://public.tableau.com/app/profile/simon.irungu/viz/Phase2Project_17543675058530/Dashboard1?publish=yes)
-For the nontechnical presentation kindly refer to this [link](https://github.com/simonirungu/phase_2_project/blob/main/Project_2_Presentation.pdf) 
+   
+For a Tableau presentation refer to this [link](https://public.tableau.com/app/profile/simon.irungu/viz/Phase2Project_17543675058530/Dashboard1?publish=yes).
+
+For the nontechnical presentation kindly refer to this [link](https://github.com/simonirungu/phase_2_project/blob/main/Project_2_Presentation.pdf).
 ## 2. BUSINESS UNDERSTANDING 
 In today’s film industry, success is determined not just by creative content but by financial outcomes. Movie producers and studios face increasing pressure to produce films that will generate strong returns on investment while minimizing the risks of financial losses. Making informed decisions about which genres to focus on, the scale of production budgets, and distribution strategies is crucial for the long-term sustainability of movie studios.
 
